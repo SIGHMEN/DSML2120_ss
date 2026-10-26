@@ -4,16 +4,23 @@ from pathlib import Path
 st.title("👋 My Bio")
 
 # ---------- TODO: Replace with your own info ----------
-NAME = "Your Name"
-PROGRAM = "Your Program / Major / Role"
+NAME = "Simon Sealey"
+PROGRAM = "MSU Senior - Bachelors of Science in Data Science and Machine Learning"
 INTRO = (
-    "Write 2–3 sentences about yourself: what you’re studying/working on, "
-    "what excites you about data visualization or computing, etc."
+    "I work at the intersection of two worlds most people keep separate: behavioral health and data science.
+
+By day, I'm a Lead BHT and Group Facilitator at a residential SUD treatment facility in Denver, where I run groups, supervise staff, manage medications for 50+ clients, and lead data analytics projects that help our team make better decisions. By night (and weekends), I'm finishing a B.S. in Data Science & Machine Learning, building skills in Python, R, machine learning, and cloud computing.
+
+What drives me is using data to improve outcomes for people who are often underserved by systems that don't measure what matters. My background in Social Work grounds the "why" behind the analysis.
+
+I'm building toward roles that blend clinical insight with analytical capability: behavioral health analytics, program evaluation, health tech, or data roles in human services organizations.
+
+If you work at that intersection too, I'd love to connect."
 )
 FUN_FACTS = [
-    "I love …",
-    "I’m learning …",
-    "I want to build …",
+    "I play dodgeball competitively.",
+    "I've seen every season of Survivor.",
+    "I was in a flash mob once"
 ]
 
 
