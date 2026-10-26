@@ -24,7 +24,7 @@ FUN_FACTS = [
     "I was in a flash mob once.",
 ]
 
-PHOTO_PATH = "your_photo.jpg"  # Put this file in an assets/ folder (or change the name here)
+PHOTO_PATH = "your_photo.jpeg"  # Put this file in an assets/ folder (or change the name here)
 
 
 def find_photo(filename=PHOTO_PATH):
